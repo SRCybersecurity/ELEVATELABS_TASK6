@@ -1,4 +1,4 @@
-# ELEVATE_LABS_Task5
+# ELEVATE_LABS_TASK6
 Evaluate Password Strength <br></br>
 ***Task: Create a Strong Password and Evaluate Its Strength.***
 
