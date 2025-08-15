@@ -7,10 +7,8 @@ Evaluate Password Strength <br></br>
 **Deliverables:** Report showing password strength results and explanation along with the scanned results screenshots are uploaded in this repository.
 
 ---
-<br></br>**Following step by step task with examples where needed**. <br></br>
-
+**Following step by step task with examples where needed**. <br></br>
 1. Create Multiple Passwords with Varying Complexity** <br>
-
 •	Let’s generate passwords with different levels of complexity:
 
 Password	Description
